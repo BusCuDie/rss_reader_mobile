@@ -12,6 +12,8 @@ target 'rss_reader_mobile' do
     :hermes_enabled => false
   )
 
+  pod 'react-native-webview', :path => '../node_modules/react-native-webview'
+
   target 'rss_reader_mobileTests' do
     inherit! :complete
     # Pods for testing

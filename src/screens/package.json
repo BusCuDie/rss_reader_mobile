@@ -1,0 +1,6 @@
+{
+    "name": "@screens",
+    "devDependencies": {
+        "@types/react-native-rss-parser": "^1.4.0"
+    }
+}

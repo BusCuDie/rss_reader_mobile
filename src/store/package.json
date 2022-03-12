@@ -1,0 +1,6 @@
+{
+    "name": "@store",
+    "devDependencies": {
+        "@types/redux-logger": "^3.0.9"
+    }
+}
